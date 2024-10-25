@@ -1,4 +1,4 @@
-# Welcome to the Python Notebooks repository! This collection of Jupyter notebooks is designed to help you learn essential Python programming concepts and popular data science libraries.
+ Welcome to the Python Notebooks repository! This collection of Jupyter notebooks is designed to help you learn essential Python programming concepts and popular data science libraries.
 
 ## Contents
 
